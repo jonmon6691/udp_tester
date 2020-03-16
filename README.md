@@ -2,6 +2,6 @@
 A maximum simplicity test of the linux UDP stack
 
 ## Usage
-`make`
+`$ make`
 
-`./a.out`
+`$ ./a.out`
